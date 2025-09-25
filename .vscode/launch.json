@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "🧠 Run with CPU",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.py",
+      "pythonPath": "${workspaceFolder}/venv_cpu/Scripts/python.exe"  // Windows
+      // Linux/macOS 路径示例: "${workspaceFolder}/venv_cpu/bin/python"
+    },
+    {
+      "name": "⚡ Run with GPU",
+      "type": "debugpy",
+      "request": "launch",
+      "program": "${workspaceFolder}/main.py",
+      "pythonPath": "${workspaceFolder}/venv_gpu/Scripts/python.exe"  // Windows
+      // Linux/macOS 路径示例: "${workspaceFolder}/venv_gpu/bin/python"
+    }
+  ]
+}

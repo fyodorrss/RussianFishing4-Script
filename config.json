@@ -1,0 +1,122 @@
+{
+  "destination": [
+    307,
+    173
+  ],
+  "dist": 45,
+  "START_HOTKEY": "F6",
+  "STOP_HOTKEY": "F8",
+  "status_type": 2,
+  "reel_type": 1,
+  "fishing_rod_btn": 1,
+  "stamina_btn": 4,
+  "hunger_btn": 5,
+  "cast_line_meters": 0,
+  "max_cast_line_meters": 120,
+  "is_cut_fish": false,
+  "is_cut_low_quality_fish": true,
+  "fish_block_types1": 2,
+  "fish_block_types2": 2,
+  "is_fly_ticket": true,
+  "is_MN": false,
+  "is_trolling_mode": false,
+  "direction": 1,
+  "trolling_status_type": 1,
+  "trolling_reeling_speed": 20,
+  "trolling_unlock_meters": 15,
+  "status_sleep": 2.0,
+  "status_click": 2.0,
+  "is_open_lock_unlock": true,
+  "open_lock_unlock_alone": false,
+  "min_lock_unlock_value": 0.0,
+  "max_lock_unlock_value": 0.65,
+  "is_open_gear_ratio": false,
+  "gear_ratio": 0.3,
+  "sleep_when_on_status": 0.0,
+  "reeling_time_after_status_detected": 0.0,
+  "change_leader_line_max_value": 0.3,
+  "auto_change_pit": true,
+  "auto_pits": [
+    [
+      469,
+      337,
+      32,
+      0
+    ],
+    [
+      307,
+      173,
+      45,
+      0
+    ]
+  ],
+  "ticket_target_count": 3,
+  "is_shift": true,
+  "lure_mode": 2,
+  "lure_rod_power": 150,
+  "lure_rod_reeling_duration": 1.1,
+  "lure_rod_stop_duration": 1.2,
+  "bottom_map": 0,
+  "lure_map": 2,
+  "bottom_reel_speed": 50,
+  "bottom_reel_friction": 25,
+  "lure_reel_speed": 25,
+  "lure_reel_friction": 5,
+  "sink_time": 8,
+  "put_down_rod_key": "x",
+  "lure_rod_name": "S60L",
+  "auto_mode": 0,
+  "only_bottom_meters": 10,
+  "game_mode": 1,
+  "steam_path": "C:\\Program Files (x86)\\Steam\\steam.exe",
+  "standalone_path": "C:\\Games\\RF4_CN\\RF4Launcher.exe",
+  "mode_type": 1,
+  "min_sleep_time": 3.0,
+  "max_sleep_time": 4.0,
+  "hand_rod_fishing_mode": 2,
+  "hand_rod_fishing_map": 1,
+  "water_status": 2,
+  "hand_rod_power": 70,
+  "drifting_total_duration": 50,
+  "hand_rod_main_line_name": "",
+  "hand_rod_float_name": "4g yr",
+  "hand_rod_sink_name": "",
+  "hand_rod_leader_line_name": "",
+  "hand_rod_hook_name": "cl-11 s18",
+  "hand_rod_bait_name1": "苍蝇",
+  "hand_rod_bait_name2": "",
+  "laoao_points": [
+    {
+      "name": "ob",
+      "point_id": "4828",
+      "meters": "10"
+    }
+  ],
+  "hupo_points": [],
+  "ahetubahe_points": [],
+  "tonghu_points": [
+    {
+      "name": "",
+      "point_id": "6655",
+      "baits": [
+        "",
+        "",
+        "",
+        ""
+      ],
+      "meters": ""
+    }
+  ],
+  "baihe_lure_points": [
+    {
+      "point_id": "7137"
+    }
+  ],
+  "aier_lure_points": [
+    {
+      "point_id": "6593"
+    }
+  ],
+  "is_rainbow_line": false,
+  "keep_underperforming_fish": true
+}

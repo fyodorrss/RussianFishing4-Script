@@ -1,0 +1,23 @@
+keyboard
+opencv-python
+pyautogui
+#python -m pip install paddlepaddle-gpu==3.2.0 -i https://www.paddlepaddle.org.cn/packages/stable/cu129/
+paddleocr
+pywin32
+pynput
+pyinstaller
+ftfy 
+imagesize 
+lxml 
+opencv-contrib-python 
+openpyxl 
+premailer 
+pyclipper 
+pypdfium2 
+scikit-learn 
+shapely 
+tokenizers 
+einops 
+jinja2 
+regex 
+tiktoken
