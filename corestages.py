@@ -2,7 +2,6 @@ from stages.buy_boat_ticket import buy_boat_ticket
 from utils import sleep_time, start_daemon_thread
 import navigator
 from stages.auto_fish_single import auto_fish_single
-from stages.auto_fish import auto_fish
 from stages.auto_renew_ticket import auto_renew_ticket
 from stages.check_fishnet_status import get_fish_count
 from stages.coffee_shop_task import coffee_shop_task

@@ -9,7 +9,6 @@ import config
 from stages.adjust_reel_settings import adjust_reel_friction, adjust_reel_settings,adjust_reel_speed
 from stages.check_fishnet_status import check_fishnet_status
 from stages.check_player_vitals import check_player_vitals
-from stages.check_reel_type import check_reel_type
 from stages.cut_fish import cut_fish
 from stages.move_to_bow import move_to_bow
 from stages.return_destination import return_destination
